@@ -131,4 +131,4 @@
 
 *Declaro que la información de este informe es veraz y que los commits listados son de mi autoría.*
 
-**Aprendiz:** ______________________  **Fecha:** ______________
+**Aprendiz:** Brayan Estiven Patiño Cabrera **Fecha:** 06/10/2026
